@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 This is Me:
 💬 Ask me about taking products from empty repo to production, Vue 2 → Vue 3 migrations, React/TypeScript dashboards, and REST API design<br><br>🔭 I’m currently working on an AI Meeting Scheduler Assistant. My AI Task Planner (LLM + RAG, Next.js, FastAPI, pgvector) is already live ✅<br><br>👯 I’m looking to collaborate on product teams in Europe 🇪🇺 building fast, user-focused web apps with React, Next.js and AI<br><br>🌱 I’m currently learning AI engineering (agents, embeddings, vector search) and German 🇩🇪<br><br>🤝 I’m looking for help with finding my next Frontend / Full Stack role in the EU. Open to relocation ✈️<br><br>⚡ Fun fact 8 years shipping production apps in Japan 🇯🇵, 2 patents, and I work fluently in English and Japanese (JLPT N1)
 
 
